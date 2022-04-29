@@ -1,0 +1,6 @@
+#### Requirements to run project to be used with pip (Python Package Installer)########
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
